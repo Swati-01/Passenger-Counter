@@ -43,7 +43,7 @@ button {
     border: none;
     padding: 17px 25px;
     color: white;
-    font-family: railway;
+    font-family: 'Happy Monkey', cursive;;
     font-weight: bold;
     width: auto;
     margin: 15px auto;
@@ -51,6 +51,7 @@ button {
     text-shadow: 4px 4px 5px black;
 }
 #save-el{
+    font-family: 'Happy Monkey', cursive;
     font-size: 45px;
     text-shadow: 3px 3px 4px black;
 }

@@ -1,0 +1,63 @@
+@font-face{
+    src:url("Christmas Style TTF Personal.ttf");
+    font-family: railway;
+}
+
+body {
+    color: white;
+    text-shadow: 4px 4px 5px black;
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family: railway; 
+}
+#counter{
+    margin-top: 20%;
+    border: 1px solid black;
+    margin-bottom: auto;
+    background: lightslategrey;
+    text-align: center;
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    font-size: 30px;
+    align-items: center;
+    border: none;
+    padding: 17px 25px;
+    color: white;
+    font-family: railway;
+    font-weight: bold;
+    width: auto;
+    margin: 15px auto;
+    border-radius: 5px;
+    text-shadow: 4px 4px 5px black;
+}
+#save-el{
+    font-size: 45px;
+    text-shadow: 3px 3px 4px black;
+}
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+

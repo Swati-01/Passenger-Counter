@@ -8,7 +8,7 @@ body {
     text-shadow: 4px 4px 5px black;
     background-image: url("station.jpg");
     background-size: cover;
-    font-family: 'Shalimar', cursive; 
+    font-family: 'Kolker Brush', cursive; 
 }
 #counter{
     margin-top: 5%;
@@ -43,7 +43,7 @@ button {
     border: none;
     padding: 17px 25px;
     color: white;
-    font-family: 'Kolker Brush', cursive;
+    font-family: 'Happy Monkey', cursive;;
     font-weight: bold;
     width: auto;
     margin: 15px auto;
@@ -51,7 +51,7 @@ button {
     text-shadow: 4px 4px 5px black;
 }
 #save-el{
-    font-family: 'Kolker Brush', cursive;
+    font-family: 'Happy Monkey', cursive;;
     font-size: 45px;
     text-shadow: 3px 3px 4px black;
 }

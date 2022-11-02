@@ -12,9 +12,10 @@ body {
 }
 #counter{
     margin-top: 20%;
-    border: 1px solid black;
+    border: 5px solid white;
     margin-bottom: auto;
     background: lightslategrey;
+    border-radius: 5px;
     text-align: center;
     display: block;
     width: 500px;

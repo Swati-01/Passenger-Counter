@@ -8,10 +8,10 @@ body {
     text-shadow: 4px 4px 5px black;
     background-image: url("station.jpg");
     background-size: cover;
-    font-family: railway; 
+    font-family: 'Happy Monkey', cursive; 
 }
 #counter{
-    margin-top: 5%;
+    margin: 5%;
     border: 5px solid white;
     margin-bottom: auto;
     background: lightslategrey;
@@ -43,7 +43,7 @@ button {
     border: none;
     padding: 17px 25px;
     color: white;
-    font-family: 'Happy Monkey', cursive;;
+    font-family: 'Happy Monkey', cursive;
     font-weight: bold;
     width: auto;
     margin: 15px auto;
